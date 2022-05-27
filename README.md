@@ -8,7 +8,7 @@ Examples of successful test tasks for demonstrating hard skills other than pytho
 |№|Position|Sphere|Description|Stack|
 |:-----:|-----|:-----:|-----|:-----:|
 |1|[Market Researcher](https://github.com/gingerwag/some_test_tasks/tree/main/Marketing%20researtcher%20AdTech)|AdTech|Research and formation of a prioritized list of offices for hunting for the sales department.| `Excel` `Regular Expressions` `VBA` `SQL` |
-|2|[Senior Data Analyst]([https://github.com/](https://github.com/gingerwag/some_test_tasks/tree/main/Senior%20Data%20analyst%20FMCG))|FMCG|Tasks in SQL. OOP principles. Algorithms. Pivot tables and complex excel functions.| `Excel` `SQL` `Python` `Pascal`|
+|2|[Senior Data Analyst](https://github.com/gingerwag/some_test_tasks/tree/main/Senior%20Data%20analyst%20FMCG)|FMCG|Tasks in SQL. OOP principles. Algorithms. Pivot tables and complex excel functions.| `Excel` `SQL` `Python` `Pascal`|
 
 
 <br>
